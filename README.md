@@ -1,10 +1,10 @@
-📊 Data Science Playground
+## 📊 Data Science Playground
 
 Welcome to my Data Science Playground – a collection of projects where I experiment with data, machine learning, and real-world problem solving.
 This repository showcases my journey as a Data Scientist & Data Engineer, covering everything from preprocessing and feature engineering to model deployment and visualization.
 
-🚀 Projects Included
-🧬 MPEG-G Microbiome Classification (Zindi Challenge)
+### 🚀 Projects Included
+#### 🧬 MPEG-G Microbiome Classification (Zindi Challenge)
 
 Built scalable ML models (XGBoost, LightGBM) to classify large genomic datasets.
 
@@ -14,7 +14,7 @@ Applied explainable AI (SHAP) and deployed a Gradio web app for predictions.
 
 Result: Achieved 86.9% accuracy while handling large-scale, high-dimensional datasets.
 
-🧾 Flu Shot Learning – Predict H1N1 and Seasonal Flu Vaccines
+#### 🧾 Flu Shot Learning – Predict H1N1 and Seasonal Flu Vaccines
 
 Developed predictive ML models using survey datasets.
 
@@ -22,7 +22,7 @@ Applied feature engineering, visualization, and model tuning.
 
 Demonstrated ability to translate raw survey data into actionable health predictions.
 
-🎬 Movie Market Analysis
+#### 🎬 Movie Market Analysis
 
 Created interactive dashboards to analyze box office and streaming data.
 
@@ -30,7 +30,7 @@ Visualized patterns and extracted business insights from large datasets.
 
 Highlighted data storytelling and visualization skills using Python and Tableau.
 
-📱 Mpox Instagram NLP Analysis
+#### 📱 Mpox Instagram NLP Analysis
 
 Built an NLP pipeline to track misinformation and sentiment trends in social media.
 
@@ -38,7 +38,7 @@ Used LDA topic modeling and VADER sentiment analysis to provide real-time insigh
 
 Showcased unstructured data handling and data streaming, relevant for financial and health monitoring systems.
 
-🛠️ Tech Stack
+#### 🛠️ Tech Stack
 
 Languages & Libraries: Python, SQL, Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow
 
@@ -48,7 +48,7 @@ Visualization: Tableau, Matplotlib, Seaborn
 
 Version Control: Git, GitHub
 
-🎯 Goals of This Repo
+#### 🎯 Goals of This Repo
 
 Explore diverse datasets across industries (healthcare, finance, genomics, entertainment).
 
@@ -56,7 +56,7 @@ Build end-to-end data solutions: from raw data → pipelines → insights → de
 
 Document my growth as a Data Scientist & Data Engineer.
 
-📌 How to Use
+#### 📌 How to Use
 
 Clone the repository:
 
